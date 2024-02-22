@@ -111,6 +111,7 @@ html {
 }
 
 .skills-icon {
+    font-size: 3rem;
     color: gray;
     margin-left: 1rem;
     margin-right: 1rem;
@@ -126,6 +127,7 @@ svg {
 
 
 .skills-icon:hover {
+    font-size: 3rem;
     transform: scale(1.1);
     color: #02aab0;
     background-image: -webkit-linear-gradient(92deg, #02aab0, #00cdac);
