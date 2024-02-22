@@ -39,6 +39,10 @@ html {
     margin: 0 0 0 20px;
 }
 
+#third-heading h1:after {
+    margin: 15px 0 0 10px;
+}
+
 #third-heading h1 {
     max-width: 1034px;
     display: flex;
